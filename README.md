@@ -30,5 +30,6 @@ Simplifies the way you collect, organize, and plan meals. Paste a recipe URL and
 All data is stored locally on the device. No accounts or cloud sync.
 
 ## Authors 
-Pragyay 
+Pragyay
+
 Kashish
